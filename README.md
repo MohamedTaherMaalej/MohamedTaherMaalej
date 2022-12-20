@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=MohamedTaherMaalej1)
 
-I am an ICT engineer and personal coach. I love programming and I try to help people set better goals, take more action, make better decisions, and make use of their natural strengths.
+I am an ICT engineer and a personal coach. I love programming and I try to help people set better goals, take more action, make better decisions, and make use of their natural strengths.
 
 As an ICT engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
