@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=MohamedTaherMaalej)
+## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedTaherMaalej&countColor=%23263759)
 
 I am an ICT engineer and a personal coach. I love programming and I try to help people set better goals, take more action, make better decisions, and make use of their natural strengths.
 
