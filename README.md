@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/mohamed-taher-maalej/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-taher-maalej" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/medtaher_maalej" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohamedTaherMaalej" height="30" width="40" /></a>
+<a href="https://twitter.com/medtaher_maalej" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg" alt="MohamedTaherMaalej" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/mohamed_taher_maalej/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_taher_maalej" height="30" width="40" /></a>
 &nbsp;
