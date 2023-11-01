@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 
 
-
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedTaherMaalej&countColor=%23263759&style=plastic&labelStyle=upper)
 
 👨‍💻 ICT & Multidisciplinary Engineering Student
