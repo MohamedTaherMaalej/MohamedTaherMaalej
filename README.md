@@ -17,23 +17,33 @@ You can click the Preview link to take a look at your changes.
 
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedTaherMaalej&countColor=%23263759&style=plastic&labelStyle=upper)
 
-I am an ICT engineer and a personal coach. I love programming and I try to help people set better goals, take more action, make better decisions, and make use of their natural strengths.
+👨‍💻 ICT & Multidisciplinary Engineering Student
 
-As an ICT engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+🚀 Passionate about Technology, Sports, and Adventure
 
-That's why I like to make things that make a difference.
+🌍 Welcome to my GitHub! I'm a dedicated ICT engineer and multidisciplinary engineering student with a strong passion for technology and a love for pushing boundaries in both the digital and physical realms. Here, you'll find a collection of my coding adventures, innovative projects, and a glimpse into my journey through the world of engineering.
+
+🏃‍♂️ Outside the world of coding, I'm a sports enthusiast who thrives on challenges and risk-taking. Whether I'm on the track, the mountains, or deep in the code, I always bring my passion for pushing limits and finding innovative solutions.
+
+🤝 Let's connect and collaborate on exciting projects, share insights, and make the world of technology and engineering even more thrilling! If you're up for an adventure, reach out and let's explore new horizons together.
+
+🌐 Explore my code and follow my journey. Don't hesitate to get in touch if you're as excited about technology, sports, and adventure as I am!
+
+
+
+
 
 <img align="right" alt="GIF" src="https://github.com/MohamedTaherMaalej/MohamedTaherMaalej/blob/main/coding.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Junior ICT Engineering Student**
-- 🔭 I’m currently working on a personal project "**MLINYB**"
-- 💬 Ask me about anything, I am happy to help
+- 👨‍💻 I'm an **ICT & Multidisciplinary Engineering Student**.
+- 🔭 I’m exploring **Artificial intelligence**, **Data Science**, and **Cybersecurity**.
+- 💬 Feel free to reach out to me, I am happy to help.
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms.
-  - Problem Solving.
+  - Cybersecurity concepts and practices.
+  - Blockchain technology and cryptocurrency.
 - 📬 How to reach me: [mohamedtahermaalej@gmail.com](mailto:mohamedtahermaalej@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1iqeB4vIg8knjMk-8lYP9JRvI7Juh0FBm/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
