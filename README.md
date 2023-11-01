@@ -106,6 +106,25 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="" src=""></a>
 </p>
 
+
+
+
+### 🎮 Gaming
+
+<p>
+  <a href="#"><img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"></a>
+  <a href="#"><img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a>
+  <a href="#"><img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"></a>
+  <a href="#"><img alt="Riot Games" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a>
+  <a href="#"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="#"><img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"></a>
+  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+</p>
+
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
