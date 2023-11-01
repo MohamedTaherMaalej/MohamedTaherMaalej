@@ -102,8 +102,6 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"></a>
   <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
 </p>
 
 
