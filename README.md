@@ -30,9 +30,6 @@ You can click the Preview link to take a look at your changes.
 🌐 Explore my code and follow my journey. Don't hesitate to get in touch if you're as excited about technology, sports, and adventure as I am!
 
 
-
-
-
 <img align="right" alt="GIF" src="https://github.com/MohamedTaherMaalej/MohamedTaherMaalej/blob/main/coding.gif" width="408" height="318" />
 
 
