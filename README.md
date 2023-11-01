@@ -23,7 +23,7 @@ As an ICT engineer, I enjoy using my obsessive attention to detail, my unequivoc
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/MohamedTaherMaalej1/MohamedTaherMaalej1/blob/main/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/MohamedTaherMaalej/MohamedTaherMaalej/blob/main/coding.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
