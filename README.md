@@ -142,6 +142,66 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
 </p>
 
+### 📋 Languages
+
+<p>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
+  <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</p>
+
+### 🎛️ Operating System
+<p>
+
+</p>
+
+
+### 🎋 ORM
+<p>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+</p>
+
+### 🥅 Other
+<p>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+</p>
+
+### 🕓 Version Control
+<p>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+</p>
 
 ### 🗄️ Databases and cloud hosting
 
