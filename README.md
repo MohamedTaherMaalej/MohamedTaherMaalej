@@ -166,11 +166,23 @@ You can click the Preview link to take a look at your changes.
 
 ### 🎛️ Operating System
 <p>
-
+  <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+  <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
+  <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
+  <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
 
 ### 🎋 ORM
+<p>
+  <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>
+</p>
+
+### 💬 Social
 <p>
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
@@ -179,9 +191,31 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+</p>
+### 🥅 Other
+<p>
+  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
 </p>
 
-### 🥅 Other
+### 🗄️ Servers
 <p>
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
@@ -194,6 +228,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🕓 Version Control
 <p>
+  	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
