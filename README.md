@@ -212,14 +212,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🗄️ Servers
 <p>
-
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
+  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+  <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
 </p>
 
 ### 🕓 Version Control
