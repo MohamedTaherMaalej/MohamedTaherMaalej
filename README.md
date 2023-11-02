@@ -99,8 +99,27 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
 </p>
 
+### 🧑‍💻 Developer/Forums
+<p>
+  <a href="#"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
+  <a href="#"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="#"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="#"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+</p>
 
+### 🎨 Design
 
+<p>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+</p>
 
 ### 🎮 Gaming
 
@@ -112,6 +131,19 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="#"><img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"></a>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+</p>
+
+### 💾 Databases
+
+<p>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="" src=""></a>
 </p>
 
 ### ☁️ Hosting/SaaS
