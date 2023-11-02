@@ -165,6 +165,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 🎛️ Operating System
+
 <p>
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
   <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
@@ -183,6 +184,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 💬 Social
+
 <p>
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
@@ -194,7 +196,9 @@ You can click the Preview link to take a look at your changes.
 
 
 </p>
+
 ### 🥅 Other
+
 <p>
   <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
@@ -210,6 +214,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🗄️ Servers
 <p>
+
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
   <a href="#"><img alt="" src=""></a>
@@ -220,14 +225,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 🕓 Version Control
+
 <p>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
