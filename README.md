@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">👨‍💻 ICT & Multidisciplinary Engineering Student</h1>
+
 <h3 align="center">🚀 Passionate about Technology, Sports, and Adventure</h3>
 
 <!---
@@ -35,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 🚀 Passionate about Technology, Sports, and Adventure
 --->
+
 
 🌍 Welcome to my GitHub! I'm a dedicated ICT engineer and multidisciplinary engineering student with a strong passion for technology and a love for pushing boundaries in both the digital and physical realms. Here, you'll find a collection of my coding adventures, innovative projects, and a glimpse into my journey through the world of engineering.
 
@@ -191,12 +193,18 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
 </p>
 
-### 📋 Languages
+### 👨‍💻 Programming languages
 
 <p>
+  <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
+  <!---
   <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  --->
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
+  <!---
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  --->
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -224,7 +232,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-
+  <!---
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
   <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"></a>
   <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"></a>
@@ -233,6 +241,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+  --->
 </p>
 
 
