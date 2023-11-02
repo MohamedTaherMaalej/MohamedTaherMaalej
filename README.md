@@ -186,15 +186,13 @@ You can click the Preview link to take a look at your changes.
 ### 💬 Social
 
 <p>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-  <a href="#"><img alt="" src=""></a>
-
-
+  <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+  <a href="#"><img alt="TeamSpeak" src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white"></a>
+  <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="#"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ### 🥅 Other
