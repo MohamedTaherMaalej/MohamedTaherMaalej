@@ -232,7 +232,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-
+  <!---
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
   <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"></a>
   <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"></a>
@@ -241,7 +241,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-
+  --->
 </p>
 
 
