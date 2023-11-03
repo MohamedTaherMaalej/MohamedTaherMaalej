@@ -118,6 +118,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 🧑‍💻 Developer/Forums
+
 <p>
   <a href="#"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   <a href="#"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
