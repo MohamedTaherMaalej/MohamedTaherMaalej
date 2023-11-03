@@ -371,6 +371,90 @@ You can click the Preview link to take a look at your changes.
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/> </a>
 </p>
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" alt="VS Code" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IPFS-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenStack-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Remix-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
+   
+</p>
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtahermaalej&show_icons=true&locale=en&layout=compact" alt="mohamedtahermaalej" /></p>
 --->
