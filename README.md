@@ -369,7 +369,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.adobe.com/products" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="ae" width="50" height="50"/> </a>
   <a href="https://www.adobe.com/products" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="ae" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/> </a>
-  
 </p>
 
 <!---
