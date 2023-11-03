@@ -306,7 +306,7 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 --->
-
+<!---
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -370,7 +370,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.adobe.com/products" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="ae" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/> </a>
 </p>
-
+--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -442,18 +442,13 @@ You can click the Preview link to take a look at your changes.
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="" width="50" height="50"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" alt="" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="" width="50" height="50"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="" width="50" height="50"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-   
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="" width="50" height="50"/> </a> 
 </p>
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtahermaalej&show_icons=true&locale=en&layout=compact" alt="mohamedtahermaalej" /></p>
