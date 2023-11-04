@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 I'm an **ICT & Multidisciplinary Engineering Student**.
-- 🔭 I’m exploring **Artificial intelligence**, **Data Science**, and **Cybersecurity**.
+- 🔭 I’m exploring **Cybersecurity**, **Artificial intelligence** and **Data Science**.
 - 💬 Feel free to reach out to me, I am happy to help.
 - 🌱 I'm currently learning:
   - Cybersecurity concepts and practices.
