@@ -385,7 +385,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/> </a>
 </p>
 --->
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" alt="VS Code" width="50" height="50"/> </a>
@@ -472,6 +472,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtahermaalej&show_icons=true&locale=en" alt="mohamedtahermaalej" /></p>
 --->
+---
 ***GITHUB STATISTICS***
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtahermaalej&" alt="mohamedtahermaalej" /></p>
 
