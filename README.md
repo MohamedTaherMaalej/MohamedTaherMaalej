@@ -96,14 +96,7 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 --->
-### 🔒 Information Security Platform
 
-<p>
-  <a href="#"><img alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
-  <a href="#"><img alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="#"><img alt="HackerOne" src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white"></a>
-  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-</p>
 
 ### 📚 Frameworks, Platforms and Libraries
 
@@ -136,6 +129,16 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
+
+### 🔒 Information Security Platform
+
+<p>
+  <a href="#"><img alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+  <a href="#"><img alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="#"><img alt="HackerOne" src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white"></a>
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+</p>
+
 
 ### 🎨 Design
 
