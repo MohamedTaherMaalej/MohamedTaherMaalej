@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
   - Cybersecurity concepts and practices.
   - Blockchain technology and cryptocurrency.
 - 📬 How to reach me: [mohamedtahermaalej@gmail.com](mailto:mohamedtahermaalej@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1iqeB4vIg8knjMk-8lYP9JRvI7Juh0FBm/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1Z-gfsSWNHwlIJMHpLcYov62NoJB5-K2j/view?usp=drive_link).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
