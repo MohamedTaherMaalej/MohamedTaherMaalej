@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedTaherMaalej&countColor=%23263759&style=plastic&labelStyle=upper)
 
-
 <h1 align="center">👨‍💻 ICT & Multidisciplinary Engineering Student</h1>
 
 <h3 align="center">🚀 Passionate about Technology, Sports, and Adventure</h3>
@@ -45,9 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 🌐 Explore my code and follow my journey. Don't hesitate to get in touch if you're as excited about technology, sports, and adventure as I am!
 
-
 <img align="right" alt="GIF" src="https://github.com/MohamedTaherMaalej/MohamedTaherMaalej/blob/main/coding.gif" width="408" height="318" />
-
 
 ### Talking about Personal Stuffs:
 
@@ -188,7 +185,6 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-
 ### 💻 IDEs/Editors
 
 <p>
@@ -256,7 +252,6 @@ You can click the Preview link to take a look at your changes.
   --->
 </p>
 
-
 ### 🎋 ORM
 
 <p>
@@ -291,6 +286,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 🗄️ Servers
+
 <p>
   <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
   <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
@@ -384,6 +380,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/> </a>
 </p>
 --->
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
