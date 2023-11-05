@@ -2,7 +2,9 @@
 MohamedTaherMaalej1/MohamedTaherMaalej1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 # Welcome to [Mohamed Taher Maalej's](https://mohamedtahermaalej.me/) profile! <a href="https://www.mohamedtahermaalej.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 
 <a href="https://www.linkedin.com/in/mohamed-taher-maalej/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-taher-maalej" height="30" width="40" /></a>
 &nbsp;
