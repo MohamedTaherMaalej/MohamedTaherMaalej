@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I'm currently learning:
   - Cybersecurity concepts and practices.
   - Blockchain technology and cryptocurrency.
-- 📬 How to reach me: [mohamedtahermaalej@gmail.com](mailto:mohamedtahermaalej@gmail.com)
+- 📬 How to reach me: [mohamed-taher.maalej@proton.me](mailto:mohamed-taher.maalej@proton.me)
 - 📝 [Resume](https://drive.google.com/file/d/13dw9U9biObG0JndWz7zxtbeXR9GR9nG3/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
