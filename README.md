@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedTaherMaalej&countColor=%23263759&style=plastic&labelStyle=upper)
 
-<h1 align="center">👨‍💻 ICT & Multidisciplinary Engineering Student</h1>
+<h1 align="center">👨‍💻 ICT & Cybersecurity Engineering Student</h1>
 
 <h3 align="center">🚀 Passionate about Technology, Sports, and Adventure</h3>
 
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 🚀 Passionate about Technology, Sports, and Adventure
 --->
 
-🌍 Welcome to my GitHub! I'm a dedicated ICT engineer and multidisciplinary engineering student with a strong passion for technology and a love for pushing boundaries in both the digital and physical realms. Here, you'll find a collection of my coding adventures, innovative projects, and a glimpse into my journey through the world of engineering.
+🌍 Welcome to my GitHub! I'm a dedicated ICT and Cybersecurity engineering student with a strong passion for technology and a love for pushing boundaries in both the digital and physical realms. Here, you'll find a collection of my coding adventures, innovative projects, and a glimpse into my journey through the world of engineering.
 
 🏃‍♂️ Outside the world of coding, I'm a sports enthusiast who thrives on challenges and risk-taking. Whether I'm on the track, the mountains, or deep in the code, I always bring my passion for pushing limits and finding innovative solutions.
 
@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 I'm an **ICT & Multidisciplinary Engineering Student**.
-- 🔭 I’m exploring  **Artificial intelligence**, **Data Science** and **Cybersecurity**.
+- 👨‍💻 I'm an **ICT & Cybersecurity Engineering Student**.
+- 🔭 I’m exploring  **Artificial Intelligence**, **Data Science** and **Cloud Computing**.
 - 💬 Feel free to reach out to me, I am happy to help.
 - 🌱 I'm currently learning:
   - Cybersecurity concepts and practices.
