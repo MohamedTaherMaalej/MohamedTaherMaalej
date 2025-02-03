@@ -73,6 +73,8 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <a href="https://dev.to/medtaher_maalej" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="medtaher_maalej" height="30" width="40" /></a>
 &nbsp;
+<a href="http://tryhackme.com/p/Mr.Zuko" target="_blank"><img align="center" src="./Assets/Icons/tryhackme-red.svg" alt="TryHackMe" height="30" width="40" /></a>
+&nbsp;
 
 ---
 
