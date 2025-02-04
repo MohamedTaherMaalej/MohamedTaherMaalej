@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
   - Cybersecurity concepts and practices.
   - Blockchain technology and cryptocurrency.
 - 📬 How to reach me: [mohamed-taher.maalej@proton.me](mailto:mohamed-taher.maalej@proton.me)
-- 📝 [Resume](https://drive.google.com/file/d/13dw9U9biObG0JndWz7zxtbeXR9GR9nG3/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1srSy3dpOteiIX15n5W7lFUov6ao9Uf6B/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
