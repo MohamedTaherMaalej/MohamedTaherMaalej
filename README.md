@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.facebook.com/MedTaherMaalej/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MedTaherMaalej" height="30" width="40" /></a>
 &nbsp;
 
-
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedTaherMaalej&countColor=%23263759&style=plastic&labelStyle=upper)
 
 <h1 align="center">👨‍💻 ICT & Cybersecurity Engineering Student</h1>
