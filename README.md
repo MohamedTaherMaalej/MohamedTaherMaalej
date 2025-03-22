@@ -270,6 +270,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---
 ### 💻 Software and tools
+
 <p>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
