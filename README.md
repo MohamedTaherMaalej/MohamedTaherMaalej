@@ -353,6 +353,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" alt="VS Code" width="50" height="50"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="" width="50" height="50"/> </a>
