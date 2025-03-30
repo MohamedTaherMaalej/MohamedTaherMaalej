@@ -118,7 +118,6 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
   <a href="#"><img alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="#"><img alt="HackerOne" src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white"></a>
-  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
 </p>
 
 ### 🎨 Design
